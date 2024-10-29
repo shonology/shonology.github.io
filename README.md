@@ -22,7 +22,7 @@ Hi! I'm Shoun, a passionate developer and Cyber Security Enthusiast who loves co
 
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shoun-a-294966225/)
+- LinkedIn: [Shoun A](https://www.linkedin.com/in/shoun-a-294966225/)
 
 ## 🤝 Support Me
 If you like my work, consider buying me a coffee!
